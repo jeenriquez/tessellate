@@ -1,2 +1,2 @@
 # tessellate
-Tessellates beam positions around a central RA and DEC in one or two concentric rings.
+This script outpust a list of RA and DEC locations for one or two concentric rings around a central source.
